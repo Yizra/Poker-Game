@@ -14,7 +14,7 @@ PAIR - Any two cards of the same rank.
 HIGH CARD - Any poker hand not in the above-mentioned poker hands.
 ------------------------------------------------------------------------------------------------------------------------------
 
-![alt text](Screen Shot 2018-01-20 at 3.38.31 PM.png)
+![alt text](https://github.com/Yizra/Poker-Game/blob/master/Screen%20Shot%202018-01-20%20at%203.38.31%20PM.png)
 
 ![alt text](Screen Shot 2018-01-20 at 3.41.06 PM.png)
 
