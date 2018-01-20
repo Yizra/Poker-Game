@@ -1,6 +1,6 @@
 # Poker-Game
 
-Poker Hands Superiority Order:
+Poker Hands Rank Order (highest to lowest):
 
 1. ROYAL FLUSH - A straight from a ten to an ace with all five cards of the same suit.
 
