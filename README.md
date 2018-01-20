@@ -24,7 +24,5 @@ Poker Hands Superiority Order:
 
 
 ![alt text](https://github.com/Yizra/Poker-Game/blob/master/TitlePage1.png) 
-![alt text](https://github.com/Yizra/Poker-Game/blob/master/GameStart.png)
-
-
-![alt text](https://github.com/Yizra/Poker-Game/blob/master/GamePlay.png)
+![alt text](https://github.com/Yizra/Poker-Game/blob/master/GameStart1.png)
+![alt text](https://github.com/Yizra/Poker-Game/blob/master/GamePlay1.png)
